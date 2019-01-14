@@ -1,5 +1,8 @@
 # daily
 
+App based on concepts in this article
+https://betterhumans.coach.me/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28
+
 ## Project setup
 ```
 npm install
@@ -25,5 +28,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
